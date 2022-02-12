@@ -2,9 +2,9 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate with other React and React Native developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate with other Angular developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball and travelling
 
 ### Spotify Playing 🎧
