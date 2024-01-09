@@ -2,9 +2,9 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, React, Next, AWS, NodeJs, Postgres, MongoDB
 - 👯 I’m looking to collaborate with other Angular developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball and travelling
 
 ### Spotify Playing 🎧
