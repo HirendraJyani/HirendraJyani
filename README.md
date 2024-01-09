@@ -1,6 +1,6 @@
 ### Hi there, I'm [Hirendra][website] 👋
 
-## I'm a Developer and Student!!
+## I'm a FullStack Software Engineer!!
 
 - 🌱 I’m currently learning Angular, React, Next, AWS, NodeJs, Postgres, MongoDB
 - 👯 I’m looking to collaborate with other Angular developers
