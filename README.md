@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular, React, Next, AWS, NodeJs, Postgres, MongoDB
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball and travelling
 
 ### Spotify Playing 🎧
